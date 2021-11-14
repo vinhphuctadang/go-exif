@@ -1,8 +1,3 @@
-[![Build Status](https://travis-ci.org/dsoprea/go-exif.svg?branch=master)](https://travis-ci.org/dsoprea/go-exif)
-[![codecov](https://codecov.io/gh/dsoprea/go-exif/branch/master/graph/badge.svg)](https://codecov.io/gh/dsoprea/go-exif)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dsoprea/go-exif/v3)](https://goreportcard.com/report/github.com/dsoprea/go-exif/v3)
-[![GoDoc](https://godoc.org/github.com/dsoprea/go-exif/v3?status.svg)](https://godoc.org/github.com/dsoprea/go-exif/v3)
-
 # Overview
 
 This package provides native Go functionality to parse an existing EXIF block, update an existing EXIF block, or add a new EXIF block.
